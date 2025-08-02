@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marko
 
 I'm an **Application Developer** in training and a **Software Engineer HF student**, already actively working in the field.  
-For the past **3 years**, I've been working at **ABB** on the **digitalization of production processes** – covering **everything** needed for a complete digital workflow:  
+Since **2022**, I've been working at **ABB** on the **digitalization of production processes** – covering **everything** needed for a complete digital workflow:  
 from **PCs & servers** to **APIs, software development, and deployment**.
 
 I’m passionate about creating reliable, efficient, and scalable solutions that bridge the gap between **production** and **digital technology**.
