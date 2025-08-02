@@ -30,4 +30,4 @@ I’m passionate about creating reliable, efficient, and scalable solutions that
 
 💬 **Let's connect!**  
 📍 Schaffhausen, Switzerland  
-🔗 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/marko-barutcu-6aa11722b/))
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marko-barutcu-6aa11722b/)
