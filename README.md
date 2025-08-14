@@ -1,29 +1,47 @@
 # 👋 Hi, I'm Marko
 
-I'm an **Application Developer** in training and a **Software Engineer HF student**, already actively working in the field.  
-Since **2022**, I've been working at **ABB** on the **digitalization of production processes** – covering **everything** needed for a complete digital workflow:  
-from **PCs & servers** to **APIs, software development, and deployment**.
+I'm a **Software Engineer HF student** at ipso! and already aktiv in the field – currently working at **ABB**, where I help **digitize production processes** end-to-end:  
+from **industrial PCs and edge devices** to **APIs, cloud integration, and modern app development**.
 
-I’m passionate about creating reliable, efficient, and scalable solutions that bridge the gap between **production** and **digital technology**.
+My focus lies on creating **reliable**, **efficient** and **user-friendly** solutions that connect **shopfloor realities** with **scalable digital technologies**.
 
 ---
 
 ## 🚀 Current Projects
-- 🧩 **Framework Challenge** – Building a modular framework in C# with a focus on clean architecture.
-- 📡 **IoT Device Integration** – Connecting Raspberry Pi to **Azure IoT** for predictive maintenance.
-- 🎥 **IPCamInHTML** – Live streaming from IP cameras in a custom multi-view HTML layout.
+- 🧩 **Framework Challenge** – Modular C# framework using clean architecture and SOLID principles.  
+- 📡 **IoT Device Integration** – Connecting Raspberry Pi to **Azure IoT** for predictive maintenance and telemetry.  
+- 🎥 **IPCamInHTML** – Custom HTML-based multi-view streaming interface for IP cameras.
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** C#, Python, HTML/CSS/JavaScript  
-**Cloud & IoT:** Azure IoT Hub, Raspberry Pi, IoT Edge  
-**Tools:** Git, GitHub Actions, VS Code, Visual Studio  
+## 🛠 Tech Stack & Skills
+
+**Languages & Frameworks:**  
+C#, Python, TypeScript, Dart, Flutter, HTML/CSS/JS
+
+**Cloud & DevOps:**  
+Azure (IoT Hub, Functions, App Services), Docker, GitHub Actions, Azure DevOps
+
+**Low-Code & Office Integration:**  
+Power Apps, Power Automate, Dataverse, SharePoint, Excel
+
+**Tools & Platforms:**  
+Visual Studio, VS Code, Git, GitHub, Raspberry Pi, Firebase
+
+---
+
+## 🧠 Ongoing Learning & Side Projects
+
+- Development of intuitive **Power Apps** for production reporting & internal workflows  
+- Private **Flutter + Firebase** app for cross-platform use cases (not yet public)  
+- REST API prototyping with **Python & Flask** for rapid testing & concept validation  
+- Experimenting with **Nobara Linux**, container orchestration & Matter/IoT integrations
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-pink-eta-37.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Stats](https://github-readme-stats-pink-eta-37.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Languages](https://github-readme-stats-pink-eta-37.vercel.app/api/top-langs/?username=MarkoBaru&layout=compact&theme=tokyonight&count_private=true)
 
 ---
