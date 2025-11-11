@@ -2,7 +2,7 @@
 Hi, I'm Marko
 I'm a Software Engineer HF student at ipso!
 
----
+
 
 ## Tech Stack & Skills
 
@@ -21,7 +21,7 @@ Power Apps, Power Automate, Dataverse, SharePoint, Excel
 Tools & Platforms
 Visual Studio, VS Code, Git, GitHub, Raspberry Pi, Firebase
 
----
+
 
 ## Ongoing Learning & Side Projects
 
@@ -34,7 +34,7 @@ Prototyping REST APIs with Python & Flask for rapid testing and concept validati
 Exploring Linux-based systems, container orchestration, and Matter/IoT integrations
 
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -42,7 +42,7 @@ Exploring Linux-based systems, container orchestration, and Matter/IoT integrati
 
 ![Languages](https://github-readme-stats-pink-eta-37.vercel.app/api/top-langs/?username=MarkoBaru&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)
 
----
+
 
 **Let's connect!**  
 Schaffhausen, Switzerland  
