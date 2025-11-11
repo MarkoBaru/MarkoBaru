@@ -36,7 +36,7 @@ Exploring Linux-based systems, container orchestration, and Matter/IoT integrati
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-pink-eta-37.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&count_private=true)
 
