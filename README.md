@@ -1,41 +1,38 @@
-# 👋 Hi, I'm Marko
-
-I'm a **Software Engineer HF student** at ipso! and already aktiv in the field – currently working at **ABB**, where I help **digitize production processes** end-to-end:  
-from **industrial PCs and edge devices** to **APIs, cloud integration, and modern app development**.
-
-My focus lies on creating **reliable**, **efficient** and **user-friendly** solutions that connect **shopfloor realities** with **scalable digital technologies**.
+# Good software doesn’t just run - it connects systems, people, and purpose.
+Hi, I'm Marko
+I'm a Software Engineer HF student at ipso!
 
 ---
 
-## 🚀 Current Projects
-- 🧩 **Framework Challenge** – Modular C# framework using clean architecture and SOLID principles.  
-- 📡 **IoT Device Integration** – Connecting Raspberry Pi to **Azure IoT** for predictive maintenance and telemetry.  
-- 🎥 **IPCamInHTML** – Custom HTML-based multi-view streaming interface for IP cameras.
+## Tech Stack & Skills
 
----
+Languages & Frameworks
+C#, Python, TypeScript, Dart, Flutter, HTML, CSS, JavaScript
 
-## 🛠 Tech Stack & Skills
-
-**Languages & Frameworks:**  
-C#, Python, TypeScript, Dart, Flutter, HTML/CSS/JS
-
-**Cloud & DevOps:**  
+Cloud & DevOps
 Azure (IoT Hub, Functions, App Services), Docker, GitHub Actions, Azure DevOps
 
-**Low-Code & Office Integration:**  
+Databases
+MongoDB, SQL (including Azure Cosmos DB with MongoDB API)
+
+Low-Code & Office Integration
 Power Apps, Power Automate, Dataverse, SharePoint, Excel
 
-**Tools & Platforms:**  
+Tools & Platforms
 Visual Studio, VS Code, Git, GitHub, Raspberry Pi, Firebase
 
 ---
 
-## 🧠 Ongoing Learning & Side Projects
+## Ongoing Learning & Side Projects
 
-- Development of intuitive **Power Apps** for production reporting & internal workflows  
-- Private **Flutter + Firebase** app for cross-platform use cases (not yet public)  
-- REST API prototyping with **Python & Flask** for rapid testing & concept validation  
-- Experimenting with **Nobara Linux**, container orchestration & Matter/IoT integrations
+Developing intuitive Power Apps for production reporting and internal workflows
+
+Building a private Flutter + Firebase app for cross-platform use cases (in progress)
+
+Prototyping REST APIs with Python & Flask for rapid testing and concept validation
+
+Exploring Linux-based systems, container orchestration, and Matter/IoT integrations
+
 
 ---
 
@@ -47,6 +44,7 @@ Visual Studio, VS Code, Git, GitHub, Raspberry Pi, Firebase
 
 ---
 
-💬 **Let's connect!**  
-📍 Schaffhausen, Switzerland  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marko-barutcu-6aa11722b/)
+**Let's connect!**  
+Schaffhausen, Switzerland  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marko-barutcu-6aa11722b/)
+Open for collaboration, exchange, and new ideas.
