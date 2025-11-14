@@ -1,4 +1,4 @@
-# Good software doesn’t just run - it connects systems, people, and purpose.
+# Good software doesn’t just run - It connects systems, people, and purpose.
 Hi, I'm Marko
 I'm a Software Engineer HF student at ipso!
 
