@@ -29,9 +29,9 @@ Visual Studio, VS Code, Git, GitHub, Raspberry Pi, Firebase
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-pink-eta-37.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-pink-eta-37.vercel.app/api/top-langs/?username=MarkoBaru&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoBaru&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800)
 
 ## Let's connect!
 
