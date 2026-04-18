@@ -20,12 +20,6 @@ Building a private Flutter + Firebase app for cross-platform use cases (in progr
 Prototyping REST APIs with Python & Flask for rapid testing and concept validation
 Exploring Linux-based systems, container orchestration, and Matter/IoT integrations
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-pink-eta-37.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Languages](https://github-readme-stats-pink-eta-37.vercel.app/api/top-langs/?username=MarkoBaru&count_private=true&include_all_commits=true&theme=tokyonight&layout=compact&langs_count=8)
-
 **Let's connect!**  
 Schaffhausen, Switzerland  
 
