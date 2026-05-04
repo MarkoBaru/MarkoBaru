@@ -71,7 +71,7 @@ Currently studying Software Engineering HF while working on real-world fullstack
   <a href="https://www.linkedin.com/in/DEIN-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://DEINE-PORTFOLIO-URL">
+  <a href="https://barutcu.ch">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
