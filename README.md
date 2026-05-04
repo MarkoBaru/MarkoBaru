@@ -62,16 +62,6 @@ Currently studying Software Engineering HF while working on real-world fullstack
 |---|---|---|
 | Portfolio Platform | React · Node.js · PostgreSQL · Docker | Live |
 | Flutter × Firebase App | Dart · Flutter · Firebase | In Progress |
-| Power Apps Workflows | Power Apps · Dataverse · SharePoint | Deployed |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkoBaru&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoBaru&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
