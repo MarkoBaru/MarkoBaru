@@ -12,10 +12,10 @@
 
 ## About Me
 
-I design and build maintainable web platforms — from API to frontend to deployment.  
+I design and build maintainable web platforms, from API to frontend to deployment.  
 Currently studying Software Engineering HF while working on real-world fullstack projects.
 
-- Building a **[Portfolio Platform](https://barutcu.ch)** — React, Node.js, PostgreSQL, Docker
+- Building a **[Portfolio Platform](https://barutcu.ch)** with React, Node.js, PostgreSQL, Docker
 - Exploring container orchestration, Linux systems and Matter/IoT integrations
 - Focus on TypeScript, clean architecture, CI/CD and production-grade deployments
 
