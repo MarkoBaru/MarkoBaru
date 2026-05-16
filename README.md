@@ -1,7 +1,7 @@
 <h1 align="center">Marko Barutcu</h1>
 
 <p align="center">
-  <em>Good software doesn't just run — it connects systems, people, and purpose.</em>
+  <em>Good software doesn't just run! It connects systems, people, and purpose.</em>
 </p>
 
 <p align="center">
